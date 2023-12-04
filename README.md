@@ -13,7 +13,7 @@ La App consistirá en una plataforma donde la gente pueda compartir precios de l
 -  Foto (opcional).
 -  No tengo claro cuan relista es añadir un lector de código de barras en la propia app, que identifique los productos y su precio de forma automática.
 
-Los usuarios necesitarán crearse un perfil, con usuario y contraseña. También podrán valorar las contribuciones de otros usuarios con valoraciones de 1 a 5 estrellas, y estaría bien disponer de una sección de comentarios así como de un pequeño foro.
+Los usuarios necesitarán crearse un perfil, con usuario y contraseña. También podrán valorar las contribuciones de otros usuarios con valoraciones de 1 a 5 estrellas, y estaría bien disponer de una sección de comentarios así como de un pequeño foro y un mapa con los supermercados cercanos a ti, donde se marquen los precios del producto que buscas.
 
 La finalidad es crear una app donde la gente pueda comparar los precios de productos concreto, pudiendo encontrar el supermercado donde se vende más barato, siendo posible obtener la información de un solo vistazo.
 
